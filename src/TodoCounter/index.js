@@ -9,7 +9,7 @@ function TodoCounter() {
 
       totalTodos === completedTodos ?
 
-      <h1 className="TodoCounter"> Finalizaste los TODOs</h1>
+      <h1 className="TodoCounter"> Finalizaste los TODO</h1>
 
       :
 
